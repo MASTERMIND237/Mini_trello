@@ -3,7 +3,7 @@ package com.project.mini_trello.assemblers;
 import com.project.mini_trello.controllers.ProjetController;
 import com.project.mini_trello.controllers.TacheController;
 import com.project.mini_trello.controllers.UserController;
-import com.project.mini_trello.dto.ProjetDTO;
+import com.project.mini_trello.DTO.ProjetDTO;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;
